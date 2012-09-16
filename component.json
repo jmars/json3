@@ -1,0 +1,10 @@
+{
+  "name": "json3",
+  "repo": "jmars/json3",
+  "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+  "version": "3.2.3",
+  "keywords": ["JSON"],
+  "dependencies": {},
+  "development": {},
+  "scripts":["lib/json3.js"]
+}
