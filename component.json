@@ -6,5 +6,5 @@
   "keywords": ["JSON"],
   "dependencies": {},
   "development": {},
-  "scripts":["lib/json3.js"]
+  "scripts":["json3.js"]
 }
